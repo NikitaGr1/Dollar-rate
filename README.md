@@ -1,5 +1,5 @@
 # Dollar-rate
-The program displays the current exchange rate of the US dollar against the Russian ruble. Program receives data via an XML request to the site <a href="http://www.cbr.ru/scripts/XML_daily.asp" target="_blank">http://www.cbr.ru/scripts/XML_daily.asp</a>
+The program displays the current exchange rate of the US dollar against the Russian ruble. Program receives data via an XML request to the site <a href="http://www.cbr.ru/scripts/XML_daily.asp" target="_blank">http://www.cbr.ru/scripts/XML_daily.asp</a>.
 
 
 # Run
